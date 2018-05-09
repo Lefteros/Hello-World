@@ -1,0 +1,15 @@
+<!-- TODO:Write some awesome HTML pls -->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Github-test</title>
+		<meta charset= UTF-8 >
+		<meta name="viewport" content="width=device-width">
+		<meta name="author" content="Tuomas Ruuttunen">
+	</head>
+
+	<body>
+		<h1>Hello world</h1>
+		<p>Well hello there</P>
+	</body>
+</html>
